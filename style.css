@@ -21,6 +21,15 @@ h3 {
 }
 
 
+.bg-ex-fixed{
+  background: url(13.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+     
+
 .bg-ex-blur {
   position: relative;
   display: flex;
